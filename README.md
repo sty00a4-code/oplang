@@ -1,6 +1,6 @@
 # OP
 
-A revision of an older programming language made by me (sty00A4), which sucked ass.
+A revision of an older programming language made by me (sty00a4-code), which sucked ass.
 This one is now actually usable, but I will not maintain it. I only remade it for fun :)
 
 If you wanna now how the language works, you can look at the file `oplang/std.op`
